@@ -5,7 +5,7 @@
 //Количества кадров в анимациях:
 1 //stand
 4 //walk
-7 //death
+7 //die
 1 //attack
 1 //seeup
 1 //seedown
