@@ -1,17 +1,18 @@
 СПИСОК ФАЙЛОВ В КОРНЕВОЙ ДИРЕКТОРИИ DOOM 2D MULTIPLAYER 0.6:
 
-data\ - папка с игровыми ресурсами и прочими данными
-docs\ - различная документация
-screenshots\ - скриншоты, сделанные в клиенте и редакторе карт
-sources\ - исходники игры
-Doom2DMP.exe - клиент
-Server.exe - сервер
-MapEditor.exe - редактор карт
-ReadMe.txt - текстовый документ
-file_id.diz - данный текстовый документ
-7z.dll - библиотека
-fmodex.dll - библиотека
-GMFMODSimple.dll - библиотека
-Max WinAPI 2.dll - библиотека
+data\				- папка с игровыми ресурсами и прочими данными
+demos\				- записи игрового процесса (демки)
+docs\				- различная документация
+screenshots\		- скриншоты, сделанные в клиенте и редакторе карт
+sources\			- исходники игры
+7z.dll				- DLL
+fmodex.dll			- DLL
+GMFMODSimple.dll	- DLL
+Max WinAPI 2.dll	- DLL
+Doom2DMP.exe		- клиент
+Server.exe			- сервер
+MapEditor.exe		- редактор карт
+ReadMe.txt			- текстовый документ
+file_id.diz			- данный текстовый документ
 
-/// 19.06.2012
+/// 31.03.2013
