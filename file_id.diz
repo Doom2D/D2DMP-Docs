@@ -5,14 +5,14 @@ demos\				- записи игрового процесса (демки)
 docs\				- различная документация
 screenshots\		- скриншоты, сделанные в клиенте и редакторе карт
 sources\			- исходники игры
-7z.dll				- DLL
-fmodex.dll			- DLL
-GMFMODSimple.dll	- DLL
-Max WinAPI 2.dll	- DLL
+7z.dll				- динамически подгружаемая библиотека (DLL)
+fmodex.dll			- динамически подгружаемая библиотека (DLL)
+GMFMODSimple.dll	- динамически подгружаемая библиотека (DLL)
+Max WinAPI 2.dll	- динамически подгружаемая библиотека (DLL)
 Doom2DMP.exe		- клиент
 Server.exe			- сервер
 MapEditor.exe		- редактор карт
 ReadMe.txt			- текстовый документ
 file_id.diz			- данный текстовый документ
 
-/// 31.03.2013
+/// 07.01.2014
